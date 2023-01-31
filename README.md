@@ -1,8 +1,6 @@
 # Hi there 👋
 
-📚 I'm a computer science and electronic engineer.
-
-:computer:
+:computer: I'm a computer scientist and electronic engineer.
 
 ✋🏼 9 years as active member of the Institute of Electrical and Electronics Engineers (IEEE). Past-Chair and cofounder of the Robotics and Automation Society (RAS) Chapter in Bolivia.
 
