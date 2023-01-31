@@ -1,8 +1,14 @@
 # Hi there 👋
 
+📚 I'm a computer science and electronic engineer.
+
+:computer:
+
+✋🏼 9 years as active member of the Institute of Electrical and Electronics Engineers (IEEE). Past-Chair and cofounder of the Robotics and Automation Society (RAS) Chapter in Bolivia.
+
+🔵 Self-taught, hard-working and team-player.
 
 ## Languages & Tools 
-![Github](https://img.shields.io/badge/-Github-black?logo=github&logoColor=white&style=flat) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -24,7 +30,5 @@
 
 
 ## Contact me here 👇
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/victorhugosillerico/)
-![Gmail](https://img.shields.io/badge/-vhsillerico@usp.br-FC1212?logo=gmail&logoColor=white&style=flat)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhugosillerico/)
+![Gmail](https://img.shields.io/badge/vhsillerico@usp.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)
